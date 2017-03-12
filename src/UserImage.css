@@ -1,0 +1,10 @@
+.UserImage img{
+    border: 1px solid;
+    border-radius: 150px;
+    width: 100%;
+}
+
+.UserImage p{
+    color: black;
+    text-transform: uppercase;
+}
